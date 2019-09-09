@@ -1,3 +1,6 @@
 def my_collect(collection)
-  while 
+  i = 0
+  while i < collection.length do
+    
+  end
 end
